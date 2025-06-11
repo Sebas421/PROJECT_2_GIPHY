@@ -1,5 +1,8 @@
 # Giphy Finder
 
+## Author
+Sebastian Londono Hurtado
+
 ## Description
 A simple GIF search engine that uses the Giphy API. Users can enter a keyword and display related GIFs directly on the page.
 
@@ -23,3 +26,9 @@ A simple GIF search engine that uses the Giphy API. Users can enter a keyword an
 - As a social media content creator, I want to search for funny or trending GIFs, so that I can include them in my daily posts to engage my audience.
 - As an office worker, I want to quickly find reaction GIFs based on keywords, so that I can add humor to my emails and messages with coworkers.
 - As a teenager browsing from my phone, I want the website to look good and work on a small screen, so that I can easily search and enjoy GIFs on the go.
+
+## Repository Link
+[GitHub Repository](https://github.com/sebas421/PROJECT_2_GIPHY)
+
+## Live Site Link
+[Live Site on GitHub Pages](https://sebas421.github.io/PROJECT_2_GIPHY/)
